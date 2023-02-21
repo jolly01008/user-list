@@ -1,0 +1,14 @@
+
+.card-title{
+  text-align: center
+}
+
+img{
+  cursor: pointer
+}
+
+.btn-heart {
+  cursor:pointer;
+  margin: 5px;
+  
+}
